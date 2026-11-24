@@ -3,6 +3,10 @@
 
 Prints the entry line to stdout and, when the harness output directory
 exists, writes the same line to /output/entry.txt.
+
+The joke's angle: the toaster treats a burnt slice as a workplace
+incident — an E12 fault code, a failure report, and a formal escalation
+to management, all for one piece of bread.
 """
 
 LINE = "E12: TOASTING FAILED. THE BREAD HAS BEEN REPORTED TO MANAGEMENT."
